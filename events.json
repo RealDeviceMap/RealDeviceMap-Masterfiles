@@ -1,0 +1,12 @@
+[{
+	"id": "community_day_01_20",
+	"date": {
+		"start": "19.01.2020 11:00",
+		"end": "19.01.2020 14:00",
+		"timezone": "dynamic"
+	},
+	"bonuses": {
+		"lure_time": 180,
+		"extra_spawnpoints": true
+	}
+}]
