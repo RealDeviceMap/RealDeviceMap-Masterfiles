@@ -1,0 +1,4452 @@
+{
+	"1": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"2": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"3": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"4": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"5": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"6": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"7": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"8": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"9": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"10": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"11": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"12": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"13": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"14": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"15": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"16": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"17": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"18": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"19": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"20": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"21": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"22": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"23": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"24": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"25": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"26": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"27": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"28": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"29": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"30": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"31": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"32": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"33": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"34": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"35": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"36": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"37": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"38": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"39": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"40": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"41": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"42": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"43": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"44": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"45": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"46": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"47": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"48": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"49": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"50": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"51": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"52": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"53": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"54": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"55": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"56": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"57": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"58": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"59": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"60": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"61": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"62": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"63": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"64": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"65": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"66": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"67": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"68": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"69": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"70": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"71": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"72": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"73": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"74": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"75": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"76": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"77": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"78": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"79": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"80": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"81": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"82": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"83": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"84": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"85": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"86": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"87": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"88": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"89": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"90": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"91": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"92": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"93": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"94": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"95": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"96": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"97": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"98": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"99": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"100": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"101": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"102": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"103": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"104": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"105": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"106": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"107": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"108": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"109": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"110": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"111": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"112": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"113": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"114": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"115": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"116": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"117": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"118": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"119": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"120": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"121": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"122": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"123": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"124": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"125": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"126": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"127": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"128": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"129": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"130": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"131": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"132": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"133": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"134": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"135": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"136": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"137": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"138": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"139": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"140": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"141": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"142": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"143": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"144": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"145": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"146": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"147": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"148": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"149": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"150": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"151": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"152": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"153": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"154": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"155": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"156": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"157": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"158": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"159": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"160": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"161": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"162": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"163": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"164": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"165": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"166": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"167": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"168": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"169": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"170": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"171": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"172": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"173": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"174": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"175": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"176": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"177": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"178": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"179": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"180": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"181": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"182": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"183": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"184": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"185": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"186": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"187": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"188": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"189": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"190": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"191": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"192": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"193": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"194": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"195": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"196": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"197": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"198": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"199": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"200": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"201": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"202": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"203": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"204": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"205": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"206": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"207": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"208": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"209": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"210": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"211": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"212": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"213": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"214": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"215": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"216": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"217": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"218": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"219": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"220": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"221": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"222": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"223": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"224": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"225": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"226": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"227": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"228": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"229": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"230": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"231": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"232": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"233": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"234": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"235": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"236": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"237": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"238": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"239": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"240": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"241": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"242": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"243": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"244": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"245": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"246": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"247": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"248": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"249": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"250": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"251": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"252": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"253": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"254": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"255": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"256": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"257": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"258": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"259": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"260": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"261": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"262": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"263": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"264": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"265": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"266": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"267": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"268": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"269": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"270": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"271": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"272": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"273": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"274": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"275": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"276": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"277": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"278": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"279": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"280": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"281": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"282": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"283": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"284": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"285": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"286": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"287": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"288": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"289": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"290": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"291": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"292": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"293": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"294": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"295": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"296": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"297": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"298": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"299": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"300": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"301": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"302": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"303": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"304": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"305": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"306": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"307": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"308": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"309": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"310": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"311": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"312": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"313": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"314": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"315": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"316": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"317": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"318": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"319": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"320": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"321": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"322": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"323": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"324": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"325": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"326": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"327": {
+		"quest": true,
+		"raid": false,
+		"wild": false
+	},
+	"328": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"329": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"330": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"331": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"332": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"333": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"334": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"335": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"336": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"337": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"338": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"339": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"340": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"341": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"342": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"343": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"344": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"345": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"346": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"347": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"348": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"349": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"350": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"351": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"352": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"353": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"354": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"355": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"356": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"357": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"358": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"359": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"360": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"361": {
+		"quest": false,
+		"raid": true,
+		"wild": true
+	},
+	"362": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"363": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"364": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"365": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"366": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"367": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"368": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"369": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"370": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"371": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"372": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"373": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"374": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"375": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"376": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"377": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"378": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"379": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"380": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"381": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"382": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"383": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"384": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"385": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"386": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"387": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"388": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"389": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"390": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"391": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"392": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"393": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"394": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"395": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"396": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"397": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"398": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"399": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"400": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"401": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"402": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"403": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"404": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"405": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"406": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"407": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"408": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"409": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"410": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"411": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"412": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"413": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"414": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"415": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"416": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"417": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"418": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"419": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"420": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"421": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"422": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"423": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"424": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"425": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"426": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"427": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"428": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"429": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"430": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"431": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"432": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"433": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"434": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"435": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"436": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"437": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"438": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"439": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"440": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"441": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"442": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"443": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"444": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"445": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"446": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"447": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"448": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"449": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"450": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"451": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"452": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"453": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"454": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"455": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"456": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"457": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"458": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"459": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"460": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"461": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"462": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"463": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"464": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"465": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"466": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"467": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"468": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"469": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"470": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"471": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"472": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"473": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"474": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"475": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"476": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"477": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"478": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"479": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"480": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"481": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"482": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"483": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"484": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"485": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"486": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"487": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"488": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"489": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"490": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"491": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"492": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"493": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"494": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"495": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"496": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"497": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"498": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"499": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"500": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"501": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"502": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"503": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"504": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"505": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"506": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"507": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"508": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"509": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"510": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"511": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"512": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"513": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"514": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"515": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"516": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"517": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"518": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"519": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"520": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"521": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"522": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"523": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"524": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"525": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"526": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"527": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"528": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"529": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"530": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"531": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"532": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"533": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"534": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"535": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"536": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"537": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"538": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"539": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"540": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"541": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"542": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"543": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"544": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"545": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"546": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"547": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"548": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"549": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"550": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"551": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"552": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"553": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"554": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"555": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"556": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"557": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"558": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"559": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"560": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"561": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"562": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"563": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"564": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"565": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"566": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"567": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"568": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"569": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"570": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"571": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"572": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"573": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"574": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"575": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"576": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"577": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"578": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"579": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"580": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"581": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"582": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"583": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"584": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"585": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"586": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"587": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"588": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"589": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"590": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"591": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"592": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"593": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"594": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"595": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"596": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"597": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"598": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"599": {
+		"quest": false,
+		"raid": true,
+		"wild": false
+	},
+	"600": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"601": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"602": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"603": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"604": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"605": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"606": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"607": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"608": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"609": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"610": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"611": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"612": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"613": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"614": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"615": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"616": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"617": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"618": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"619": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"620": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"621": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"622": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"623": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"624": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"625": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"626": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"627": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"628": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"629": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"630": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"631": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"632": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"633": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"634": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"635": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"636": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"637": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"638": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"639": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"640": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"641": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"642": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"643": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"644": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"645": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"646": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"647": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"648": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"649": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"650": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"651": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"652": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"653": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"654": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"655": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"656": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"657": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"658": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"659": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"660": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"661": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"662": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"663": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"664": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"665": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"666": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"667": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"668": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"669": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"670": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"671": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"672": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"673": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"674": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"675": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"676": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"677": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"678": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"679": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"680": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"681": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"682": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"683": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"684": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"685": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"686": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"687": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"688": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"689": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"690": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"691": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"692": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"693": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"694": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"695": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"696": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"697": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"698": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"699": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"700": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"701": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"702": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"703": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"704": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"705": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"706": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"707": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"708": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"709": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"710": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"711": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"712": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"713": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"714": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"715": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"716": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"717": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"718": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"719": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"720": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"721": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"722": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"723": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"724": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"725": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"726": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"727": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"728": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"729": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"730": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"731": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"732": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"733": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"734": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"735": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"736": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"737": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"738": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"739": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"740": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"741": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"742": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"743": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"744": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"745": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"746": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"747": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"748": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"749": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"750": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"751": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"752": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"753": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"754": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"755": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"756": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"757": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"758": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"759": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"760": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"761": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"762": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"763": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"764": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"765": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"766": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"767": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"768": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"769": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"770": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"771": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"772": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"773": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"774": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"775": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"776": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"777": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"778": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"779": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"780": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"781": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"782": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"783": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"784": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"785": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"786": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"787": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"788": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"789": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"790": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"791": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"792": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"793": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"794": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"795": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"796": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"797": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"798": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"799": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"800": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"801": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"802": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"803": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"804": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"805": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"806": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"807": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"808": {
+		"quest": false,
+		"raid": false,
+		"wild": true
+	},
+	"809": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"810": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"811": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"812": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"813": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"814": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"815": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"816": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"817": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"818": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"819": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"820": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"821": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"822": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"823": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"824": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"825": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"826": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"827": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"828": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"829": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"830": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"831": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"832": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"833": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"834": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"835": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"836": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"837": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"838": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"839": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"840": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"841": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"842": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"843": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"844": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"845": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"846": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"847": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"848": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"849": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"850": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"851": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"852": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"853": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"854": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"855": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"856": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"857": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"858": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"859": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"860": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"861": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"862": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"863": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"864": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"865": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"866": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"867": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"868": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"869": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"870": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"871": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"872": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"873": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"874": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"875": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"876": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"877": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"878": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"879": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"880": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"881": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"882": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"883": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"884": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"885": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"886": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"887": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"888": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"889": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	},
+	"890": {
+		"quest": false,
+		"raid": false,
+		"wild": false
+	}
+}
